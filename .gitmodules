@@ -1,0 +1,3 @@
+[submodule "goat-proto"]
+	path = goat-proto
+	url = https://github.com/goat-project/goat-proto
